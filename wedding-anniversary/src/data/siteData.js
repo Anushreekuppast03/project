@@ -10,7 +10,7 @@ export const couple = {
   subtitle: 'Silver Jubilee Anniversary',
   weddingDate: '2000-12-12', // the day they got married
   // Next anniversary date used for the countdown timer (YYYY-MM-DDTHH:mm:ss)
-  anniversaryDate: '2025-12-12T18:00:00',
+  anniversaryDate: '2026-12-12T18:00:00',
   welcomeMessage:
     'Two souls, one beautiful journey. Thank you for being part of our story.',
   heroImage:
@@ -212,7 +212,7 @@ export const initialWishes = [
 
 export const event = {
   title: 'Silver Anniversary Gala',
-  date: 'Friday, December 12, 2025',
+  date: 'Saturday, December 12, 2026',
   time: '6:00 PM onwards',
   venueName: 'The Grand Rosewood Ballroom',
   venueAddress: '12 Lakeview Avenue, Bengaluru, India',
